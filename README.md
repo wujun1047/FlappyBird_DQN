@@ -15,5 +15,4 @@ pip install pygame
 
 # 运行情况
 
-效果动态图
-https://upload-images.jianshu.io/upload_images/23841906-da24b77c182b721e.gif?imageMogr2/auto-orient/strip|imageView2/2/w/226/format/webp
+![效果动态图](https://upload-images.jianshu.io/upload_images/23841906-da24b77c182b721e.gif?imageMogr2/auto-orient/strip|imageView2/2/w/226/format/webp)
